@@ -1,0 +1,7 @@
+[threat_intelligence][unknown: 911d8eb6] New threat NV: [ Channel Scoop: February 23, 2018 ]. Url: http://feedproxy.google.com/~r/PaloAltoNetworks/~3/ItgWBSCdlDc/ 
+[threat_intelligence][unknown: 3e7ba759] New threat NV: [ News of the Week: February 24, 2018 ]. Url: http://feedproxy.google.com/~r/PaloAltoNetworks/~3/RaOSahcjbRk/ 
+[threat_intelligence][unknown: 3e058690] New threat NV: [ It’s Back! Don’t Panic, the Unit 42 Podcast, Returns with New Episodes ]. Url: http://feedproxy.google.com/~r/PaloAltoNetworks/~3/kYJu7vtr-j4/ 
+[threat_intelligence][unknown: e17a5ab1] New threat NV: [ Two Steps Forward: Magnifier and the Cloud Services Portal ]. Url: http://feedproxy.google.com/~r/PaloAltoNetworks/~3/162MWMUdvYs/ 
+[threat_intelligence][unknown: 45007c13] New threat NV: [ Palo Alto Networks Recognized for Assisted Technical Support Excellence by J.D. Power and TSIA for 3rd Consecutive Year ]. Url: http://feedproxy.google.com/~r/PaloAltoNetworks/~3/w9JzfVvmNfs/ 
+[threat_intelligence][unknown: 8e881205] New threat NV: [ Introducing the Ruggedized PA-220R Next-Generation Firewall ]. Url: http://feedproxy.google.com/~r/PaloAltoNetworks/~3/Woy6IofrO50/ 
+[threat_intelligence][unknown: 9ed841bf] New threat ANVT: [ Raising the Bar for Mobile Network Security ]. Url: http://feedproxy.google.com/~r/PaloAltoNetworks/~3/s8RpBz_RDvY/ 
